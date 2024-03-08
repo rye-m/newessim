@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity_essim.sln"
+    "dotnet.defaultSolution": "newessim.sln"
 }
